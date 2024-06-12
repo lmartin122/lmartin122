@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+##### 🙋‍♂️ I'm Isasmendi Lucas Martin - Software Engineering student at UNICEN and Java Angular developer.
+##### 📫 My email: isasmendi.martin@gmail.com
 <!--
 **lmartin122/lmartin122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
